@@ -1,0 +1,1 @@
+This network was trained on set2 and validated on set1. The training set was images of variable number of insulators all in indoor conditions. The validation set is insulators that are outdoors and always have 3 insulators in them. 

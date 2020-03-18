@@ -1,0 +1,1 @@
+Due to an error it did not save. I recall it having 90% on the training data and %70-%75 on the testing data.

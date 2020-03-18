@@ -1,0 +1,651 @@
+data
+├── set1
+│   ├── broken
+│   │   ├── P_20190508_130334_vHDR_Auto.jpg
+│   │   ├── P_20190508_130728_vHDR_Auto.jpg
+│   │   ├── P_20190508_130939_vHDR_Auto.jpg
+│   │   ├── P_20190508_131151_vHDR_Auto.jpg
+│   │   ├── P_20190508_132010_vHDR_Auto.jpg
+│   │   ├── P_20190508_132307_vHDR_Auto.jpg
+│   │   ├── P_20190508_132548_vHDR_Auto.jpg
+│   │   ├── P_20190508_132644_vHDR_Auto.jpg
+│   │   ├── P_20190508_132721_vHDR_Auto.jpg
+│   │   ├── P_20190508_132923_vHDR_Auto.jpg
+│   │   ├── P_20190508_133002_vHDR_Auto.jpg
+│   │   ├── P_20190508_133050_vHDR_Auto.jpg
+│   │   ├── P_20190508_133411_vHDR_Auto.jpg
+│   │   ├── P_20190508_133455_vHDR_Auto.jpg
+│   │   ├── P_20190508_134134_vHDR_Auto.jpg
+│   │   ├── P_20190508_134216_vHDR_Auto.jpg
+│   │   ├── P_20190508_134226_vHDR_Auto.jpg
+│   │   ├── P_20190508_134314_vHDR_Auto.jpg
+│   │   ├── P_20190508_134442_vHDR_Auto.jpg
+│   │   ├── P_20190508_134742_vHDR_Auto.jpg
+│   │   ├── P_20190508_141253_vHDR_Auto.jpg
+│   │   ├── P_20190508_141346_vHDR_Auto.jpg
+│   │   ├── P_20190508_141440_vHDR_Auto.jpg
+│   │   ├── P_20190508_141541_vHDR_Auto.jpg
+│   │   ├── P_20190508_141609_vHDR_Auto.jpg
+│   │   ├── P_20190508_141637_vHDR_Auto.jpg
+│   │   ├── P_20190508_141654_vHDR_Auto.jpg
+│   │   ├── P_20190508_141759_vHDR_Auto.jpg
+│   │   ├── P_20190508_141909_vHDR_Auto.jpg
+│   │   ├── P_20190508_141915_vHDR_Auto.jpg
+│   │   ├── P_20190508_141922_vHDR_Auto.jpg
+│   │   ├── P_20190508_142150_vHDR_Auto.jpg
+│   │   ├── P_20190508_142226_vHDR_Auto.jpg
+│   │   ├── P_20190508_142422_vHDR_Auto.jpg
+│   │   ├── P_20190508_142516_vHDR_Auto.jpg
+│   │   ├── P_20190508_142612_vHDR_Auto.jpg
+│   │   ├── P_20190508_142625_vHDR_Auto.jpg
+│   │   ├── P_20190508_143016_vHDR_Auto.jpg
+│   │   ├── P_20190508_143034_vHDR_Auto.jpg
+│   │   ├── P_20190508_143242_vHDR_Auto.jpg
+│   │   ├── P_20190508_143512_vHDR_Auto.jpg
+│   │   ├── P_20190508_143555_vHDR_Auto.jpg
+│   │   ├── P_20190508_143747_vHDR_Auto.jpg
+│   │   ├── P_20190508_143825_vHDR_Auto.jpg
+│   │   ├── P_20190508_143831_vHDR_Auto.jpg
+│   │   ├── P_20190508_143839_vHDR_Auto.jpg
+│   │   ├── P_20190508_143855_vHDR_Auto.jpg
+│   │   ├── P_20190508_143908_vHDR_Auto.jpg
+│   │   ├── P_20190508_144005_vHDR_Auto.jpg
+│   │   ├── P_20190508_144352_vHDR_Auto.jpg
+│   │   ├── P_20190508_144405_vHDR_Auto.jpg
+│   │   ├── P_20190508_144437_vHDR_Auto.jpg
+│   │   ├── P_20190508_144520_vHDR_Auto.jpg
+│   │   ├── P_20190508_144537_vHDR_Auto.jpg
+│   │   ├── P_20190508_144611_vHDR_Auto.jpg
+│   │   ├── P_20190508_144618_vHDR_Auto.jpg
+│   │   ├── P_20190508_144650_vHDR_Auto.jpg
+│   │   ├── P_20190508_144856_vHDR_Auto.jpg
+│   │   ├── P_20190508_145006_vHDR_Auto.jpg
+│   │   ├── P_20190508_145048_vHDR_Auto.jpg
+│   │   ├── P_20190508_145150_vHDR_Auto.jpg
+│   │   ├── P_20190508_145231_vHDR_Auto.jpg
+│   │   ├── P_20190508_145239_vHDR_Auto.jpg
+│   │   ├── P_20190508_145247_vHDR_Auto.jpg
+│   │   ├── P_20190509_103523_vHDR_Auto.jpg
+│   │   ├── P_20190509_103538_vHDR_Auto.jpg
+│   │   ├── P_20190509_103924_vHDR_Auto.jpg
+│   │   ├── P_20190509_103935_vHDR_Auto.jpg
+│   │   ├── P_20190509_104011_vHDR_Auto.jpg
+│   │   ├── P_20190509_104159_vHDR_Auto.jpg
+│   │   ├── P_20190509_104210_vHDR_Auto.jpg
+│   │   ├── P_20190509_104249_vHDR_Auto.jpg
+│   │   ├── P_20190509_104406_vHDR_Auto.jpg
+│   │   ├── P_20190509_104827_vHDR_Auto.jpg
+│   │   ├── P_20190509_104853_vHDR_Auto.jpg
+│   │   ├── P_20190509_105021_vHDR_Auto.jpg
+│   │   ├── P_20190509_105100_vHDR_Auto.jpg
+│   │   ├── P_20190509_105335_vHDR_Auto.jpg
+│   │   ├── P_20190509_105416_vHDR_Auto.jpg
+│   │   ├── P_20190509_105505_vHDR_Auto.jpg
+│   │   ├── P_20190509_105624_vHDR_Auto.jpg
+│   │   ├── P_20190509_105800_vHDR_Auto.jpg
+│   │   ├── P_20190509_110001_vHDR_Auto.jpg
+│   │   ├── P_20190509_110413_vHDR_Auto.jpg
+│   │   ├── P_20190509_110521_vHDR_Auto.jpg
+│   │   ├── P_20190509_110553_vHDR_Auto.jpg
+│   │   ├── P_20190509_110602_vHDR_Auto.jpg
+│   │   ├── P_20190509_110812_vHDR_Auto.jpg
+│   │   ├── P_20190509_110825_vHDR_Auto.jpg
+│   │   ├── P_20190509_111150_vHDR_Auto.jpg
+│   │   ├── P_20190509_123913_vHDR_Auto.jpg
+│   │   ├── P_20190509_124030_1_vHDR_Auto.jpg
+│   │   ├── P_20190509_124043_vHDR_Auto.jpg
+│   │   ├── P_20190509_124225_vHDR_Auto.jpg
+│   │   ├── P_20190509_124304_vHDR_Auto.jpg
+│   │   ├── P_20190509_124308_vHDR_Auto.jpg
+│   │   ├── P_20190509_124334_vHDR_Auto.jpg
+│   │   ├── P_20190509_124342_vHDR_Auto.jpg
+│   │   ├── P_20190509_124408_vHDR_Auto.jpg
+│   │   ├── P_20190509_124827_vHDR_Auto.jpg
+│   │   ├── P_20190509_124838_vHDR_Auto.jpg
+│   │   ├── P_20190509_124903_vHDR_Auto.jpg
+│   │   ├── P_20190509_124927_vHDR_Auto.jpg
+│   │   ├── P_20190509_125019_vHDR_Auto.jpg
+│   │   ├── P_20190509_125100_vHDR_Auto.jpg
+│   │   ├── P_20190509_125114_vHDR_Auto.jpg
+│   │   ├── P_20190509_125127_vHDR_Auto.jpg
+│   │   ├── P_20190509_125133_vHDR_Auto.jpg
+│   │   ├── P_20190509_125158_vHDR_Auto.jpg
+│   │   ├── P_20190509_125206_vHDR_Auto.jpg
+│   │   ├── P_20190509_125718_vHDR_Auto.jpg
+│   │   ├── P_20190509_125803_vHDR_Auto.jpg
+│   │   ├── P_20190509_125829_vHDR_Auto.jpg
+│   │   ├── P_20190509_125920_vHDR_Auto.jpg
+│   │   ├── P_20190509_125936_vHDR_Auto.jpg
+│   │   ├── P_20190509_130009_vHDR_Auto.jpg
+│   │   ├── P_20190509_130013_vHDR_Auto.jpg
+│   │   ├── P_20190509_130842_vHDR_Auto.jpg
+│   │   ├── P_20190509_130921_vHDR_Auto.jpg
+│   │   ├── P_20190509_130955_vHDR_Auto.jpg
+│   │   ├── P_20190509_131025_vHDR_Auto.jpg
+│   │   ├── P_20190509_131034_vHDR_Auto.jpg
+│   │   ├── P_20190509_131204_vHDR_Auto.jpg
+│   │   ├── P_20190509_131225_vHDR_Auto.jpg
+│   │   ├── P_20190509_131503_vHDR_Auto.jpg
+│   │   ├── P_20190509_131530_vHDR_Auto.jpg
+│   │   ├── P_20190509_131550_vHDR_Auto.jpg
+│   │   ├── P_20190509_131555_vHDR_Auto.jpg
+│   │   ├── P_20190509_131614_vHDR_Auto.jpg
+│   │   ├── P_20190509_131617_vHDR_Auto.jpg
+│   │   ├── P_20190509_131644_vHDR_Auto.jpg
+│   │   ├── P_20190509_131649_vHDR_Auto.jpg
+│   │   ├── P_20190509_131703_vHDR_Auto.jpg
+│   │   ├── P_20190509_131713_vHDR_Auto.jpg
+│   │   ├── P_20190509_131719_vHDR_Auto.jpg
+│   │   ├── P_20190509_131818_vHDR_Auto.jpg
+│   │   ├── P_20190509_131937_vHDR_Auto.jpg
+│   │   ├── P_20190509_132009_vHDR_Auto.jpg
+│   │   ├── P_20190509_133456_vHDR_Auto.jpg
+│   │   ├── P_20190509_133555_vHDR_Auto.jpg
+│   │   ├── P_20190509_133607_vHDR_Auto.jpg
+│   │   ├── P_20190509_134021_vHDR_Auto.jpg
+│   │   ├── P_20190509_134035_vHDR_Auto.jpg
+│   │   ├── P_20190509_134041_vHDR_Auto.jpg
+│   │   ├── P_20190509_134134_vHDR_Auto.jpg
+│   │   ├── P_20190509_134151_vHDR_Auto.jpg
+│   │   ├── P_20190509_134308_vHDR_Auto.jpg
+│   │   ├── P_20190509_134435_vHDR_Auto.jpg
+│   │   ├── P_20190509_134458_vHDR_Auto.jpg
+│   │   ├── P_20190509_134514_vHDR_Auto.jpg
+│   │   ├── P_20190509_134608_vHDR_Auto.jpg
+│   │   ├── P_20190509_134727_vHDR_Auto.jpg
+│   │   ├── P_20190509_134738_vHDR_Auto.jpg
+│   │   ├── P_20190509_134747_vHDR_Auto.jpg
+│   │   ├── P_20190509_134753_vHDR_Auto.jpg
+│   │   ├── P_20190509_134812_vHDR_Auto.jpg
+│   │   ├── P_20190509_134954_vHDR_Auto.jpg
+│   │   ├── P_20190509_135010_vHDR_Auto.jpg
+│   │   ├── P_20190509_135030_vHDR_Auto.jpg
+│   │   ├── P_20190509_135208_vHDR_Auto.jpg
+│   │   ├── P_20190509_135228_vHDR_Auto.jpg
+│   │   ├── P_20190509_135257_vHDR_Auto.jpg
+│   │   ├── P_20190509_135342_vHDR_Auto.jpg
+│   │   ├── P_20190509_140024_vHDR_Auto.jpg
+│   │   ├── P_20190509_140031_vHDR_Auto.jpg
+│   │   ├── P_20190509_140345_vHDR_Auto.jpg
+│   │   ├── P_20190509_140502_vHDR_Auto.jpg
+│   │   ├── P_20190509_153130_vHDR_Auto.jpg
+│   │   ├── P_20190509_153254_vHDR_Auto.jpg
+│   │   ├── P_20190509_153307_vHDR_Auto.jpg
+│   │   ├── P_20190509_153506_vHDR_Auto.jpg
+│   │   ├── P_20190509_153510_vHDR_Auto.jpg
+│   │   ├── P_20190509_153515_vHDR_Auto.jpg
+│   │   ├── P_20190509_153528_vHDR_Auto.jpg
+│   │   ├── P_20190509_153621_vHDR_Auto.jpg
+│   │   ├── P_20190509_153818_vHDR_Auto.jpg
+│   │   ├── P_20190509_153926_vHDR_Auto.jpg
+│   │   ├── P_20190509_154132_vHDR_Auto.jpg
+│   │   ├── P_20190509_154308_vHDR_Auto.jpg
+│   │   ├── P_20190509_154559_vHDR_Auto.jpg
+│   │   ├── P_20190509_154616_vHDR_Auto.jpg
+│   │   ├── P_20190509_155119_vHDR_Auto.jpg
+│   │   ├── P_20190509_155513_vHDR_Auto.jpg
+│   │   ├── P_20190509_155629_vHDR_Auto.jpg
+│   │   ├── P_20190509_155634_vHDR_Auto.jpg
+│   │   ├── P_20190509_155638_vHDR_Auto.jpg
+│   │   ├── P_20190509_155754_vHDR_Auto.jpg
+│   │   ├── P_20190509_155800_vHDR_Auto.jpg
+│   │   ├── P_20190509_155807_vHDR_Auto.jpg
+│   │   ├── P_20190509_155813_vHDR_Auto.jpg
+│   │   ├── P_20190509_160406_vHDR_Auto.jpg
+│   │   ├── P_20190510_103039_vHDR_Auto.jpg
+│   │   ├── P_20190510_103152_vHDR_Auto.jpg
+│   │   ├── P_20190510_103231_1_vHDR_Auto.jpg
+│   │   ├── P_20190510_103257_vHDR_Auto.jpg
+│   │   ├── P_20190510_103401_vHDR_Auto.jpg
+│   │   ├── P_20190510_103507_vHDR_Auto.jpg
+│   │   ├── P_20190510_103556_vHDR_Auto.jpg
+│   │   ├── P_20190510_103716_vHDR_Auto.jpg
+│   │   ├── P_20190510_103747_vHDR_Auto.jpg
+│   │   ├── P_20190510_104059_vHDR_Auto.jpg
+│   │   ├── P_20190510_104147_vHDR_Auto.jpg
+│   │   ├── P_20190510_104300_vHDR_Auto.jpg
+│   │   ├── P_20190510_104330_vHDR_Auto.jpg
+│   │   ├── P_20190510_104348_vHDR_Auto.jpg
+│   │   ├── P_20190510_104527_vHDR_Auto.jpg
+│   │   ├── P_20190510_104543_vHDR_Auto.jpg
+│   │   ├── P_20190510_104549_vHDR_Auto.jpg
+│   │   ├── P_20190510_104606_vHDR_Auto.jpg
+│   │   ├── P_20190510_104611_vHDR_Auto.jpg
+│   │   ├── P_20190510_104624_vHDR_Auto.jpg
+│   │   ├── P_20190510_104707_vHDR_Auto.jpg
+│   │   ├── P_20190510_104732_vHDR_Auto.jpg
+│   │   ├── P_20190510_104807_vHDR_Auto.jpg
+│   │   ├── P_20190510_104813_vHDR_Auto.jpg
+│   │   ├── P_20190510_104941_vHDR_Auto.jpg
+│   │   ├── P_20190510_110438_vHDR_Auto.jpg
+│   │   ├── P_20190510_110505_vHDR_Auto.jpg
+│   │   ├── P_20190510_110553_vHDR_Auto.jpg
+│   │   ├── P_20190510_110604_vHDR_Auto.jpg
+│   │   ├── P_20190510_110714_vHDR_Auto.jpg
+│   │   ├── P_20190510_110721_vHDR_Auto.jpg
+│   │   ├── P_20190510_110823_vHDR_Auto.jpg
+│   │   ├── P_20190510_110940_vHDR_Auto.jpg
+│   │   ├── P_20190510_110949_vHDR_Auto.jpg
+│   │   ├── P_20190510_111049_vHDR_Auto.jpg
+│   │   ├── P_20190510_111106_vHDR_Auto.jpg
+│   │   ├── P_20190510_111313_vHDR_Auto.jpg
+│   │   ├── P_20190510_111444_vHDR_Auto.jpg
+│   │   ├── P_20190510_111602_vHDR_Auto.jpg
+│   │   ├── P_20190510_111734_vHDR_Auto.jpg
+│   │   ├── P_20190510_111750_vHDR_Auto.jpg
+│   │   ├── P_20190510_111908_vHDR_Auto.jpg
+│   │   ├── P_20190510_112052_vHDR_Auto.jpg
+│   │   ├── P_20190510_112219_vHDR_Auto.jpg
+│   │   ├── P_20190510_112536_vHDR_Auto.jpg
+│   │   ├── P_20190510_113500_vHDR_Auto.jpg
+│   │   ├── P_20190510_113614_vHDR_Auto.jpg
+│   │   ├── P_20190510_113707_vHDR_Auto.jpg
+│   │   ├── P_20190510_113819_vHDR_Auto.jpg
+│   │   ├── P_20190510_114042_vHDR_Auto.jpg
+│   │   ├── P_20190510_114051_vHDR_Auto.jpg
+│   │   ├── P_20190510_114114_vHDR_Auto.jpg
+│   │   ├── P_20190510_114248_vHDR_Auto.jpg
+│   │   ├── P_20190510_114300_vHDR_Auto.jpg
+│   │   ├── P_20190510_114336_vHDR_Auto.jpg
+│   │   ├── P_20190510_114356_vHDR_Auto.jpg
+│   │   ├── P_20190510_114957_vHDR_Auto.jpg
+│   │   ├── P_20190510_115100_vHDR_Auto.jpg
+│   │   ├── P_20190510_115345_vHDR_Auto.jpg
+│   │   ├── P_20190510_115403_vHDR_Auto.jpg
+│   │   ├── P_20190510_115440_vHDR_Auto.jpg
+│   │   ├── P_20190510_115450_vHDR_Auto.jpg
+│   │   ├── P_20190510_115546_vHDR_Auto.jpg
+│   │   ├── P_20190510_115636_vHDR_Auto.jpg
+│   │   ├── P_20190510_115759_vHDR_Auto.jpg
+│   │   ├── P_20190510_115835_vHDR_Auto.jpg
+│   │   └── P_20190510_115859_vHDR_Auto.jpg
+│   └── functional
+│       ├── P_20190508_104318_vHDR_Auto.jpg
+│       ├── P_20190508_104335_vHDR_Auto.jpg
+│       ├── P_20190508_105016_vHDR_Auto.jpg
+│       ├── P_20190508_105046_vHDR_Auto.jpg
+│       ├── P_20190508_105451_vHDR_Auto.jpg
+│       ├── P_20190508_105814_vHDR_Auto.jpg
+│       ├── P_20190508_110012_vHDR_Auto.jpg
+│       ├── P_20190508_110057_vHDR_Auto.jpg
+│       ├── P_20190508_110818_vHDR_Auto.jpg
+│       ├── P_20190508_110846_vHDR_Auto.jpg
+│       ├── P_20190508_111007_vHDR_Auto.jpg
+│       ├── P_20190508_111530_vHDR_Auto.jpg
+│       ├── P_20190508_111923_vHDR_Auto.jpg
+│       ├── P_20190508_113540_vHDR_Auto.jpg
+│       ├── P_20190508_114107_vHDR_Auto.jpg
+│       ├── P_20190508_114153_vHDR_Auto.jpg
+│       ├── P_20190508_114508_vHDR_Auto.jpg
+│       ├── P_20190508_114708_vHDR_Auto.jpg
+│       ├── P_20190508_114735_vHDR_Auto.jpg
+│       ├── P_20190508_115224_vHDR_Auto.jpg
+│       ├── P_20190508_115253_vHDR_Auto.jpg
+│       ├── P_20190508_115426_vHDR_Auto.jpg
+│       ├── P_20190508_115852_vHDR_Auto.jpg
+│       ├── P_20190508_120042_vHDR_Auto.jpg
+│       ├── P_20190508_120216_vHDR_Auto.jpg
+│       ├── P_20190508_120442_vHDR_Auto.jpg
+│       ├── P_20190508_120912_vHDR_Auto.jpg
+│       ├── P_20190508_120932_vHDR_Auto.jpg
+│       ├── P_20190508_121335_vHDR_Auto.jpg
+│       ├── P_20190508_121604_vHDR_Auto.jpg
+│       ├── P_20190508_121826_vHDR_Auto.jpg
+│       ├── P_20190508_121844_vHDR_Auto.jpg
+│       ├── P_20190508_121947_vHDR_Auto.jpg
+│       ├── P_20190508_122012_vHDR_Auto.jpg
+│       ├── P_20190508_122111_vHDR_Auto.jpg
+│       ├── P_20190508_122134_vHDR_Auto.jpg
+│       ├── P_20190508_122141_vHDR_Auto.jpg
+│       ├── P_20190508_142833_vHDR_Auto.jpg
+│       ├── P_20190508_143943_vHDR_Auto.jpg
+│       ├── P_20190508_143955_vHDR_Auto.jpg
+│       ├── P_20190508_144238_vHDR_Auto.jpg
+│       ├── P_20190508_144631_vHDR_Auto.jpg
+│       ├── P_20190508_144658_vHDR_Auto.jpg
+│       ├── P_20190509_104348_vHDR_Auto.jpg
+│       ├── P_20190509_110622_vHDR_Auto.jpg
+│       ├── P_20190509_111213_vHDR_Auto.jpg
+│       ├── P_20190509_111449_vHDR_Auto.jpg
+│       ├── P_20190509_111837_vHDR_Auto.jpg
+│       ├── P_20190509_112324_vHDR_Auto.jpg
+│       ├── P_20190509_112451_vHDR_Auto.jpg
+│       ├── P_20190509_112502_vHDR_Auto.jpg
+│       ├── P_20190509_112822_vHDR_Auto.jpg
+│       ├── P_20190509_112846_vHDR_Auto.jpg
+│       ├── P_20190509_112848_vHDR_Auto.jpg
+│       ├── P_20190509_112908_vHDR_Auto.jpg
+│       ├── P_20190509_130836_vHDR_Auto.jpg
+│       ├── P_20190509_131810_vHDR_Auto.jpg
+│       ├── P_20190509_135054_vHDR_Auto.jpg
+│       ├── P_20190509_140119_vHDR_Auto.jpg
+│       ├── P_20190509_140405_vHDR_Auto.jpg
+│       ├── P_20190509_140933_vHDR_Auto.jpg
+│       ├── P_20190509_140948_vHDR_Auto.jpg
+│       ├── P_20190509_140952_vHDR_Auto.jpg
+│       ├── P_20190509_141010_vHDR_Auto.jpg
+│       ├── P_20190509_141022_vHDR_Auto.jpg
+│       ├── P_20190509_152246_vHDR_Auto.jpg
+│       ├── P_20190509_152356_vHDR_Auto.jpg
+│       ├── P_20190509_152456_vHDR_Auto.jpg
+│       ├── P_20190509_152725_vHDR_Auto.jpg
+│       ├── P_20190509_152739_vHDR_Auto.jpg
+│       ├── P_20190509_153109_vHDR_Auto.jpg
+│       ├── P_20190509_153115_vHDR_Auto.jpg
+│       ├── P_20190509_154449_vHDR_Auto.jpg
+│       ├── P_20190509_154519_vHDR_Auto.jpg
+│       ├── P_20190509_154941_vHDR_Auto.jpg
+│       ├── P_20190509_155233_vHDR_Auto.jpg
+│       ├── P_20190509_155418_vHDR_Auto.jpg
+│       ├── P_20190510_102440_vHDR_Auto.jpg
+│       ├── P_20190510_102535_vHDR_Auto.jpg
+│       ├── P_20190510_102619_vHDR_Auto.jpg
+│       ├── P_20190510_102816_vHDR_Auto.jpg
+│       ├── P_20190510_103452_vHDR_Auto.jpg
+│       ├── P_20190510_103920_vHDR_Auto.jpg
+│       ├── P_20190510_104242_vHDR_Auto.jpg
+│       ├── P_20190510_104510_vHDR_Auto.jpg
+│       ├── P_20190510_104512_vHDR_Auto.jpg
+│       ├── P_20190510_104725_vHDR_Auto.jpg
+│       ├── P_20190510_104828_vHDR_Auto.jpg
+│       ├── P_20190510_104913_vHDR_Auto.jpg
+│       ├── P_20190510_104919_vHDR_Auto.jpg
+│       ├── P_20190510_105025_vHDR_Auto.jpg
+│       ├── P_20190510_105849_vHDR_Auto.jpg
+│       ├── P_20190510_105944_vHDR_Auto.jpg
+│       ├── P_20190510_110013_vHDR_Auto.jpg
+│       ├── P_20190510_110052_vHDR_Auto.jpg
+│       ├── P_20190510_110222_vHDR_Auto.jpg
+│       ├── P_20190510_110905_vHDR_Auto.jpg
+│       ├── P_20190510_110927_vHDR_Auto.jpg
+│       ├── P_20190510_111229_vHDR_Auto.jpg
+│       ├── P_20190510_111338_vHDR_Auto.jpg
+│       ├── P_20190510_111449_vHDR_Auto.jpg
+│       ├── P_20190510_111757_vHDR_Auto.jpg
+│       ├── P_20190510_112238_vHDR_Auto.jpg
+│       ├── P_20190510_112245_vHDR_Auto.jpg
+│       ├── P_20190510_112410_vHDR_Auto.jpg
+│       ├── P_20190510_112541_vHDR_Auto.jpg
+│       ├── P_20190510_113658_vHDR_Auto.jpg
+│       ├── P_20190510_114157_vHDR_Auto.jpg
+│       ├── P_20190510_114927_vHDR_Auto.jpg
+│       ├── P_20190510_114943_vHDR_Auto.jpg
+│       ├── P_20190510_115142_vHDR_Auto.jpg
+│       ├── P_20190510_115227_vHDR_Auto.jpg
+│       ├── P_20190510_115410_vHDR_Auto.jpg
+│       ├── P_20190510_115555_vHDR_Auto.jpg
+│       ├── P_20190510_115620_vHDR_Auto.jpg
+│       └── P_20190510_115659_vHDR_Auto.jpg
+└── set2
+    ├── broken
+    │   ├── P_20190501_105320_vHDR_Auto.jpg
+    │   ├── P_20190501_105327_vHDR_Auto.jpg
+    │   ├── P_20190501_105343_vHDR_Auto.jpg
+    │   ├── P_20190501_105350_vHDR_Auto.jpg
+    │   ├── P_20190501_105559_vHDR_Auto.jpg
+    │   ├── P_20190501_105604_vHDR_Auto.jpg
+    │   ├── P_20190501_105620_vHDR_Auto.jpg
+    │   ├── P_20190501_105627_vHDR_Auto.jpg
+    │   ├── P_20190501_105649_vHDR_Auto.jpg
+    │   ├── P_20190501_105655_vHDR_Auto.jpg
+    │   ├── P_20190501_110216_vHDR_Auto.jpg
+    │   ├── P_20190501_110221_vHDR_Auto.jpg
+    │   ├── P_20190501_110237_vHDR_Auto.jpg
+    │   ├── P_20190501_110243_vHDR_Auto.jpg
+    │   ├── P_20190501_110314_vHDR_Auto.jpg
+    │   ├── P_20190501_110319_vHDR_Auto.jpg
+    │   ├── P_20190501_110332_vHDR_Auto.jpg
+    │   ├── P_20190501_110336_vHDR_Auto.jpg
+    │   ├── P_20190501_110353_vHDR_Auto.jpg
+    │   ├── P_20190501_110400_vHDR_Auto.jpg
+    │   ├── P_20190501_110407_vHDR_Auto.jpg
+    │   ├── P_20190501_110411_vHDR_Auto.jpg
+    │   ├── P_20190501_110422_vHDR_Auto.jpg
+    │   ├── P_20190501_110426_vHDR_Auto.jpg
+    │   ├── P_20190501_110448_vHDR_Auto.jpg
+    │   ├── P_20190501_110453_vHDR_Auto.jpg
+    │   ├── P_20190501_110717_vHDR_Auto.jpg
+    │   ├── P_20190501_110748_vHDR_Auto.jpg
+    │   ├── P_20190501_110814_vHDR_Auto.jpg
+    │   ├── P_20190501_110821_vHDR_Auto.jpg
+    │   ├── P_20190501_110826_vHDR_Auto.jpg
+    │   ├── P_20190501_110835_vHDR_Auto.jpg
+    │   ├── P_20190501_111128_vHDR_Auto.jpg
+    │   ├── P_20190501_111238_vHDR_Auto.jpg
+    │   ├── P_20190501_111243_vHDR_Auto.jpg
+    │   ├── P_20190501_111251_vHDR_Auto.jpg
+    │   ├── P_20190501_111258_vHDR_Auto.jpg
+    │   ├── P_20190501_111307_vHDR_Auto.jpg
+    │   ├── P_20190501_111921_vHDR_Auto.jpg
+    │   ├── P_20190501_111928_vHDR_Auto.jpg
+    │   ├── P_20190501_111939_vHDR_Auto.jpg
+    │   ├── P_20190501_111948_vHDR_Auto.jpg
+    │   ├── P_20190501_111953_vHDR_Auto.jpg
+    │   ├── P_20190501_112001_vHDR_Auto.jpg
+    │   ├── P_20190501_112049_vHDR_Auto.jpg
+    │   ├── P_20190501_112058_vHDR_Auto.jpg
+    │   ├── P_20190501_112103_vHDR_Auto.jpg
+    │   ├── P_20190501_112110_vHDR_Auto.jpg
+    │   ├── P_20190501_112116_vHDR_Auto.jpg
+    │   ├── P_20190501_112122_vHDR_Auto.jpg
+    │   ├── P_20190501_112139_vHDR_Auto.jpg
+    │   ├── P_20190501_112154_vHDR_Auto.jpg
+    │   ├── P_20190501_112701_vHDR_Auto.jpg
+    │   ├── P_20190501_113553_vHDR_Auto.jpg
+    │   ├── P_20190501_113600_vHDR_Auto.jpg
+    │   ├── P_20190501_113606_vHDR_Auto.jpg
+    │   ├── P_20190501_113615_vHDR_Auto.jpg
+    │   ├── P_20190501_113624_vHDR_Auto.jpg
+    │   ├── P_20190501_113629_vHDR_Auto.jpg
+    │   ├── P_20190501_113703_vHDR_Auto.jpg
+    │   ├── P_20190501_113711_vHDR_Auto.jpg
+    │   ├── P_20190501_113717_vHDR_Auto.jpg
+    │   ├── P_20190501_113731_vHDR_Auto.jpg
+    │   ├── P_20190501_113744_vHDR_Auto.jpg
+    │   ├── P_20190501_113853_vHDR_Auto.jpg
+    │   ├── P_20190501_113859_vHDR_Auto.jpg
+    │   ├── P_20190501_113905_vHDR_Auto.jpg
+    │   ├── P_20190501_113912_vHDR_Auto.jpg
+    │   ├── P_20190501_113920_vHDR_Auto.jpg
+    │   ├── P_20190501_114114_vHDR_Auto.jpg
+    │   ├── P_20190501_114121_vHDR_Auto.jpg
+    │   ├── P_20190501_114134_vHDR_Auto.jpg
+    │   ├── P_20190501_114144_vHDR_Auto.jpg
+    │   ├── P_20190501_114216_vHDR_Auto.jpg
+    │   ├── P_20190501_114225_vHDR_Auto.jpg
+    │   ├── P_20190501_114234_vHDR_Auto.jpg
+    │   ├── P_20190501_114241_vHDR_Auto.jpg
+    │   ├── P_20190501_114421_vHDR_Auto.jpg
+    │   ├── P_20190501_114430_vHDR_Auto.jpg
+    │   ├── P_20190501_114436_vHDR_Auto.jpg
+    │   ├── P_20190501_114445_vHDR_Auto.jpg
+    │   ├── P_20190501_114459_vHDR_Auto.jpg
+    │   ├── P_20190501_114507_vHDR_Auto.jpg
+    │   ├── P_20190501_114947_vHDR_Auto.jpg
+    │   ├── P_20190501_114953_vHDR_Auto.jpg
+    │   ├── P_20190501_115005_vHDR_Auto.jpg
+    │   ├── P_20190501_115015_vHDR_Auto.jpg
+    │   ├── P_20190501_115020_vHDR_Auto.jpg
+    │   ├── P_20190501_115029_vHDR_Auto.jpg
+    │   ├── P_20190501_115120_vHDR_Auto.jpg
+    │   ├── P_20190501_115129_vHDR_Auto.jpg
+    │   ├── P_20190501_115134_vHDR_Auto.jpg
+    │   ├── P_20190501_115140_vHDR_Auto.jpg
+    │   ├── P_20190501_115149_vHDR_Auto.jpg
+    │   ├── P_20190501_115155_vHDR_Auto.jpg
+    │   ├── P_20190501_115200_vHDR_Auto.jpg
+    │   ├── P_20190501_115205_vHDR_Auto.jpg
+    │   ├── P_20190501_115350_vHDR_Auto.jpg
+    │   ├── P_20190501_115401_vHDR_Auto.jpg
+    │   ├── P_20190501_115409_vHDR_Auto.jpg
+    │   ├── P_20190501_115412_vHDR_Auto.jpg
+    │   ├── P_20190501_115432_vHDR_Auto.jpg
+    │   ├── P_20190501_115437_vHDR_Auto.jpg
+    │   ├── P_20190501_115450_vHDR_Auto.jpg
+    │   ├── P_20190501_115457_vHDR_Auto.jpg
+    │   ├── P_20190501_115902_vHDR_Auto.jpg
+    │   ├── P_20190501_115908_vHDR_Auto.jpg
+    │   ├── P_20190501_115914_vHDR_Auto.jpg
+    │   ├── P_20190501_115919_vHDR_Auto.jpg
+    │   ├── P_20190501_115924_vHDR_Auto.jpg
+    │   ├── P_20190501_115926_vHDR_Auto.jpg
+    │   ├── P_20190501_115930_vHDR_Auto.jpg
+    │   ├── P_20190501_120008_vHDR_Auto.jpg
+    │   ├── P_20190501_120015_vHDR_Auto.jpg
+    │   ├── P_20190501_120021_vHDR_Auto.jpg
+    │   ├── P_20190501_120027_vHDR_Auto.jpg
+    │   ├── P_20190501_120032_vHDR_Auto.jpg
+    │   ├── P_20190501_120036_vHDR_Auto.jpg
+    │   ├── P_20190501_120041_vHDR_Auto.jpg
+    │   ├── P_20190501_120047_vHDR_Auto.jpg
+    │   ├── P_20190501_120056_vHDR_Auto.jpg
+    │   ├── P_20190501_120148_vHDR_Auto.jpg
+    │   ├── P_20190501_120157_vHDR_Auto.jpg
+    │   ├── P_20190501_120202_vHDR_Auto.jpg
+    │   ├── P_20190501_120206_vHDR_Auto.jpg
+    │   ├── P_20190501_120213_vHDR_Auto.jpg
+    │   ├── P_20190501_120221_vHDR_Auto.jpg
+    │   ├── P_20190501_120737_vHDR_Auto.jpg
+    │   ├── P_20190501_120743_vHDR_Auto.jpg
+    │   ├── P_20190501_120746_vHDR_Auto.jpg
+    │   ├── P_20190501_120749_vHDR_Auto.jpg
+    │   ├── P_20190501_120758_vHDR_Auto.jpg
+    │   ├── P_20190501_120833_vHDR_Auto.jpg
+    │   ├── P_20190501_120840_vHDR_Auto.jpg
+    │   ├── P_20190501_120845_vHDR_Auto.jpg
+    │   ├── P_20190501_120849_vHDR_Auto.jpg
+    │   ├── P_20190501_120853_vHDR_Auto.jpg
+    │   ├── P_20190501_121137_vHDR_Auto.jpg
+    │   ├── P_20190501_121142_vHDR_Auto.jpg
+    │   ├── P_20190501_121149_vHDR_Auto.jpg
+    │   ├── P_20190501_121153_vHDR_Auto.jpg
+    │   ├── P_20190501_121156_vHDR_Auto.jpg
+    │   ├── P_20190501_121203_vHDR_Auto.jpg
+    │   ├── P_20190501_121215_vHDR_Auto.jpg
+    │   ├── P_20190501_121223_vHDR_Auto.jpg
+    │   ├── P_20190501_121228_vHDR_Auto.jpg
+    │   ├── P_20190501_121234_vHDR_Auto.jpg
+    │   ├── P_20190501_121245_vHDR_Auto.jpg
+    │   ├── P_20190501_125729_vHDR_Auto.jpg
+    │   ├── P_20190501_125735_vHDR_Auto.jpg
+    │   ├── P_20190501_125740_vHDR_Auto.jpg
+    │   ├── P_20190501_125744_vHDR_Auto.jpg
+    │   ├── P_20190501_125750_vHDR_Auto.jpg
+    │   ├── P_20190501_125754_vHDR_Auto.jpg
+    │   ├── P_20190501_125825_vHDR_Auto.jpg
+    │   ├── P_20190501_125832_vHDR_Auto.jpg
+    │   ├── P_20190501_125836_vHDR_Auto.jpg
+    │   ├── P_20190501_125845_vHDR_Auto.jpg
+    │   ├── P_20190501_125849_vHDR_Auto.jpg
+    │   ├── P_20190501_125854_vHDR_Auto.jpg
+    │   ├── P_20190501_125858_vHDR_Auto.jpg
+    │   ├── P_20190501_125902_vHDR_Auto.jpg
+    │   ├── P_20190501_130105_vHDR_Auto.jpg
+    │   ├── P_20190501_130111_vHDR_Auto.jpg
+    │   ├── P_20190501_130118_vHDR_Auto.jpg
+    │   ├── P_20190501_130132_vHDR_Auto.jpg
+    │   ├── P_20190501_130136_vHDR_Auto.jpg
+    │   ├── P_20190501_130145_vHDR_Auto.jpg
+    │   ├── P_20190501_130155_vHDR_Auto.jpg
+    │   ├── P_20190501_130159_vHDR_Auto.jpg
+    │   ├── P_20190501_130228_vHDR_Auto.jpg
+    │   ├── P_20190501_130431_vHDR_Auto.jpg
+    │   ├── P_20190501_130436_vHDR_Auto.jpg
+    │   ├── P_20190501_130444_vHDR_Auto.jpg
+    │   ├── P_20190501_130451_vHDR_Auto.jpg
+    │   ├── P_20190501_130456_vHDR_Auto.jpg
+    │   ├── P_20190501_130500_vHDR_Auto.jpg
+    │   └── P_20190501_130510_vHDR_Auto.jpg
+    └── functional
+        ├── P_20190501_105253_vHDR_Auto.jpg
+        ├── P_20190501_105259_vHDR_Auto.jpg
+        ├── P_20190501_105938_vHDR_Auto.jpg
+        ├── P_20190501_105943_vHDR_Auto.jpg
+        ├── P_20190501_110152_vHDR_Auto.jpg
+        ├── P_20190501_110157_vHDR_Auto.jpg
+        ├── P_20190501_110705_vHDR_Auto.jpg
+        ├── P_20190501_110709_vHDR_Auto.jpg
+        ├── P_20190501_110732_vHDR_Auto.jpg
+        ├── P_20190501_110741_vHDR_Auto.jpg
+        ├── P_20190501_110953_vHDR_Auto.jpg
+        ├── P_20190501_110959_vHDR_Auto.jpg
+        ├── P_20190501_111007_vHDR_Auto.jpg
+        ├── P_20190501_111015_vHDR_Auto.jpg
+        ├── P_20190501_111022_vHDR_Auto.jpg
+        ├── P_20190501_111117_vHDR_Auto.jpg
+        ├── P_20190501_111123_vHDR_Auto.jpg
+        ├── P_20190501_111138_vHDR_Auto.jpg
+        ├── P_20190501_111144_vHDR_Auto.jpg
+        ├── P_20190501_111150_vHDR_Auto.jpg
+        ├── P_20190501_111435_vHDR_Auto.jpg
+        ├── P_20190501_111440_vHDR_Auto.jpg
+        ├── P_20190501_111446_vHDR_Auto.jpg
+        ├── P_20190501_111452_vHDR_Auto.jpg
+        ├── P_20190501_111739_vHDR_Auto.jpg
+        ├── P_20190501_111745_vHDR_Auto.jpg
+        ├── P_20190501_111750_vHDR_Auto.jpg
+        ├── P_20190501_111758_vHDR_Auto.jpg
+        ├── P_20190501_111805_vHDR_Auto.jpg
+        ├── P_20190501_112647_vHDR_Auto.jpg
+        ├── P_20190501_112652_vHDR_Auto.jpg
+        ├── P_20190501_112656_vHDR_Auto.jpg
+        ├── P_20190501_112709_vHDR_Auto.jpg
+        ├── P_20190501_112715_vHDR_Auto.jpg
+        ├── P_20190501_113142_vHDR_Auto.jpg
+        ├── P_20190501_113147_vHDR_Auto.jpg
+        ├── P_20190501_113152_vHDR_Auto.jpg
+        ├── P_20190501_113158_vHDR_Auto.jpg
+        ├── P_20190501_113202_vHDR_Auto.jpg
+        ├── P_20190501_113204_vHDR_Auto.jpg
+        ├── P_20190501_113349_vHDR_Auto.jpg
+        ├── P_20190501_113356_vHDR_Auto.jpg
+        ├── P_20190501_113406_vHDR_Auto.jpg
+        ├── P_20190501_113416_vHDR_Auto.jpg
+        ├── P_20190501_113421_vHDR_Auto.jpg
+        ├── P_20190501_113423_vHDR_Auto.jpg
+        ├── P_20190501_113439_vHDR_Auto.jpg
+        ├── P_20190501_113621_vHDR_Auto.jpg
+        ├── P_20190501_120250_vHDR_Auto.jpg
+        ├── P_20190501_120301_vHDR_Auto.jpg
+        ├── P_20190501_120312_vHDR_Auto.jpg
+        ├── P_20190501_120428_vHDR_Auto.jpg
+        ├── P_20190501_120432_vHDR_Auto.jpg
+        ├── P_20190501_120436_vHDR_Auto.jpg
+        ├── P_20190501_120439_vHDR_Auto.jpg
+        ├── P_20190501_120446_vHDR_Auto.jpg
+        ├── P_20190501_124125_vHDR_Auto.jpg
+        ├── P_20190501_124133_vHDR_Auto.jpg
+        ├── P_20190501_124141_vHDR_Auto.jpg
+        ├── P_20190501_124150_vHDR_Auto.jpg
+        ├── P_20190501_124153_vHDR_Auto.jpg
+        ├── P_20190501_124201_vHDR_Auto.jpg
+        ├── P_20190501_124311_vHDR_Auto.jpg
+        ├── P_20190501_124318_vHDR_Auto.jpg
+        ├── P_20190501_124325_vHDR_Auto.jpg
+        ├── P_20190501_124331_vHDR_Auto.jpg
+        ├── P_20190501_124548_vHDR_Auto.jpg
+        ├── P_20190501_124555_vHDR_Auto.jpg
+        ├── P_20190501_124559_vHDR_Auto.jpg
+        ├── P_20190501_124605_vHDR_Auto.jpg
+        ├── P_20190501_124731_vHDR_Auto.jpg
+        ├── P_20190501_124737_vHDR_Auto.jpg
+        ├── P_20190501_124742_vHDR_Auto.jpg
+        ├── P_20190501_124750_vHDR_Auto.jpg
+        ├── P_20190501_124801_vHDR_Auto.jpg
+        ├── P_20190501_125100_vHDR_Auto.jpg
+        ├── P_20190501_125114_vHDR_Auto.jpg
+        ├── P_20190501_125119_vHDR_Auto.jpg
+        ├── P_20190501_125126_vHDR_Auto.jpg
+        ├── P_20190501_125138_vHDR_Auto.jpg
+        ├── P_20190501_125510_vHDR_Auto.jpg
+        ├── P_20190501_125515_vHDR_Auto.jpg
+        ├── P_20190501_125521_vHDR_Auto.jpg
+        ├── P_20190501_125525_vHDR_Auto.jpg
+        ├── P_20190501_125529_vHDR_Auto.jpg
+        ├── P_20190501_130759_vHDR_Auto.jpg
+        ├── P_20190501_130806_vHDR_Auto.jpg
+        ├── P_20190501_130812_vHDR_Auto.jpg
+        ├── P_20190501_130821_vHDR_Auto.jpg
+        ├── P_20190501_130848_vHDR_Auto.jpg
+        └── P_20190501_130851_vHDR_Auto.jpg
+

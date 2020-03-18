@@ -1,0 +1,1 @@
+This network was trained on set1 and validated on set2. It was trained on images of outdoor insulators in strings of 3, and validated on images of indoor insulators with variable number of insulators in the string. 
