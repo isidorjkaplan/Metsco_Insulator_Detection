@@ -21,11 +21,10 @@ def printHistory(history):
 
 
 img_width = img_height = 32*4
-epoches = 1000
+epoches = 300
 data_folder = '/home/isidor/Documents/keras/data/mask_data'
-steps_per_epoch = 1
+steps_per_epoch = 5
 batch_size = 3#int(len(os.listdir(data_folder + "/frames/files/"))/steps_per_epoch)
-nb_train_samples = int(batch_size*steps_per_epoch)
 net_file = "segment.h5"
 
 def show(train_generator, model):
@@ -72,7 +71,7 @@ model.summary()
 #show_validation(test_image_generator, model)
 
 
-history = model.fit_generator(train_generator,steps_per_epoch=nb_train_samples // batch_size, epochs=epoches)
+history = model.fit_generator(train_generator,steps_per_epoch=steps_per_epoch, epochs=epoches)
 model.save_weights(net_file)
 printHistory(history)
 
