@@ -6,3 +6,5 @@ Adapted code from the following resources:
   https://www.tensorflow.org/tutorials/images/segmentation
   https://keras.io/visualization/
   https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+  
+Data labelled with: https://labelbox.com/
